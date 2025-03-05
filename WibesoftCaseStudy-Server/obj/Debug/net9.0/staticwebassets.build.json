@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G82H4tsQW1zMr71OG1JOT7mQwnWxEEwjNiURX3zktoU=",
+  "Source": "WibesoftCaseStudy-Server",
+  "BasePath": "_content/WibesoftCaseStudy-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
