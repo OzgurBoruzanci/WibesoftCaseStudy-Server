@@ -1,0 +1,9 @@
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\WibesoftCaseStudy-Server.exe
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\appsettings.Development.json
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\appsettings.json
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\WibesoftCaseStudy-Server.dll
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\WibesoftCaseStudy-Server.deps.json
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\WibesoftCaseStudy-Server.runtimeconfig.json
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\WibesoftCaseStudy-Server.pdb
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\Newtonsoft.Json.dll
+C:\Users\ozgur\WibesoftCaseStudy-Server\WibesoftCaseStudy-Server\publish\System.Net.WebSockets.WebSocketProtocol.dll
